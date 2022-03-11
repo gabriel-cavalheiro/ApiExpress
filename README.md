@@ -1,5 +1,5 @@
 # ApiExpress
-Api Rest construída com framework express do Node.js
+Api construída no padrão Rest com framework express realizando o CRUD para o usuário.
 
 <h1>👨🏽‍💻 Tecnologias utilizadas</h1>
 <ul>
@@ -7,3 +7,4 @@ Api Rest construída com framework express do Node.js
   <li>Express</li>
   <li>Postgres</li>
   <li>Docker</li>
+</ul>  
